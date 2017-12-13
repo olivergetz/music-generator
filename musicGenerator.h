@@ -1,0 +1,1 @@
+int noteGenerator(int scaleNum);
